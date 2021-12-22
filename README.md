@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tottomotomotomo
 - 👀 I’m interested in UI/UX, WEB Design, WEB Engineer, Design Engineer
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript(react,gatsby), Photoshop, Illustrator
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript(react.js), Ruby on rails, Photoshop, Illustrator
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me. e-mail(biz.halness.01@gmail.com)
 
