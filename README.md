@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me. e-mail(biz.halness.01@gmail.com)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tottomotomotomo&hide=blade&langs_count=10)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tottomotomotomo&hide=blade,hack&langs_count=8)
