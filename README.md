@@ -26,4 +26,4 @@ I’m currently learning
 
 ---
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tottomotomotomo&hide=blade,hack&langs_count=7)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tottomotomotomo&hide=blade,hack&langs_count=7&layout=compact)
